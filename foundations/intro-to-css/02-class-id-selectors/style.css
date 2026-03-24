@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+.number-one,
+.number-three,
+ .number-three {
+    background-color: rgb(255, 147, 194);
+ font-family: Verdana,"DejaVu Sans", sans-serif;
+ }
+
+#FirstID {
+  color: rgb(22, 22, 195); 
+ font-size: 36px;
+ font-family: 'Times New Roman', Times, serif;
+  }
+
+.number-two {
+    font-size: 24px;
+}
+
+#SecondID {
+    background-color: rgb(147, 255, 147);
+    font-size: 24px;
+    font-weight: bold;
+
+}
